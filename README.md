@@ -1,2 +1,2 @@
-# jogo da memória genus
+# jogo da memória genius
  - projeto feito durante o bootcamp da DIO
