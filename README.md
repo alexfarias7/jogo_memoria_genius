@@ -1,2 +1,2 @@
-# jogo_memoria_genius
- gogo da memoria genius
+# jogo da memória genius
+ - projeto feito durante o bootcamp da DIO
